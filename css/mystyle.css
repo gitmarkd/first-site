@@ -1,0 +1,10 @@
+body {
+    width: 970px;
+    margin: 0px auto;
+    background-color: #cccccc;
+    font-family: Verdana, Sans-serif;
+}
+
+h1 {
+    color: red;
+}
